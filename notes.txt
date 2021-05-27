@@ -1,0 +1,17 @@
+Main Modules or Branches of Project
+
+#Client Side
+-Live Data Fetch using Open API
+-Questions Test
+-Blogs
+-Suggestions
+-Contribution
+-About
+-Contact
+
+#admin Side
+-Handle Users
+-Handle Questions-Answers on Questions Test
+-Handle Contribution Forms
+-Handle Suggestions
+-Handle Contacts
