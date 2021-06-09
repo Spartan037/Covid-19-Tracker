@@ -72,7 +72,7 @@ $result = mysqli_query($conn, $query);
                                         <td><?php echo $row['mobile']; ?></td>
                                         <td><?php echo $row['amount']; ?></td>
                                         <td><?php echo $row['reason']; ?></td>
-                                        <td><a href="admin-contribution.php?cdid=<?php echo $row['id']; ?>"><button type="button" class="btn btn-danger">Delete</button></a>
+                                        <td><a href='admin-contribution.php?cdid=<?php echo $row["id"]; ?>'><button type="button" class="btn btn-danger">Delete</button></a>
                                     </tr>
                                 <?php
                                 }
